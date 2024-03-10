@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![fouaouri's 42 stats](https://badge.mediaplus.ma/binary/fouaouri)](https://github.com/oakoudad/badge42)
 
 <!--
 **fouaouri/fouaouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
