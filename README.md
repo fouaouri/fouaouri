@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **fzouaourikt@gmail.com**
   
-[![fouaouri's 42 stats](https://badge.mediaplus.ma/starryblue/fouaouri)](https://github.com/oakoudad/badge42)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/fouaouri" alt="fouaouri's 42 stats" /></a>
 
 
 <h3 align="left">Connect with me:</h3>
