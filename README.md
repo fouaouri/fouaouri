@@ -1,6 +1,8 @@
 ### Hi there 👋
-[![fouaouri's 42 stats](https://badge.mediaplus.ma/binary/fouaouri)](https://github.com/oakoudad/badge42)
+[![fouaouri's 42 stats](https://badge.mediaplus.ma/starryblue/fouaouri)](https://github.com/oakoudad/badge42)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fouaouri&show_icons=true&theme=radical)
 <!--
 **fouaouri/fouaouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
