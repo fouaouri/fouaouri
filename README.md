@@ -8,10 +8,16 @@
   I design, train, and deploy Machine Learning models using Python, TensorFlow, and FastAPI.<br>
   Focused on building real-world AI systems in Computer Vision and NLP.
 </p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fouaouri&theme=dark&hide_border=true" />
+
 - 📫 How to reach me **fzouaourikt@gmail.com**
-  
+
+
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/fouaouri" alt="fouaouri's 42 stats" /></a>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fouaouri&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fouaouri&theme=tokyonight" />
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
